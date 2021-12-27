@@ -3,7 +3,7 @@ Try to connect to wifis with known default password
 
 [import project](https://taskernet.com/shares/?user=AS35m8lZFkvcWqyrgtPNlB2Mh52ouETCHLjBo4o18oCQ0xa81fNP%2Fw5ZsXNm7UpARlC3g9C%2BsFR3pw%3D%3D&id=Project%3AWIHACK)
 
-## Usage
+## Explanation
 
 - `string`
   - string used in regex
