@@ -1,6 +1,29 @@
 # wihack_v2
 Try to connect to wifis with known default password
 
+## Usage
+
+- `string`
+  - string used in regex
+
+- `%name`
+  - name wireless (e.g AndroidAp)
+
+- `%mac`
+  - mac wireless (e.g a1:b2:c3:d4:e6:f7)
+
+- `regex`
+  - pattern searched in string
+
+- `replace`
+  - string replacement `$1` are identified as groups
+
+- `upper`
+  - search and leave all letters found in uppercase
+
+- `lower`
+  - search and leave all letters found in lowercase
+
 #### Table on `database.db` from `templates`
 
 | **id** | **string** | **regex**                                                                                       | **replace**  | **upper** | **lower** |
